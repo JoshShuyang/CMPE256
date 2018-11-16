@@ -75,6 +75,9 @@ def kNN_rs(blue_team, red_team, team_side, champ_id, champ_pool, kNN, win, champ
             champ_dic[rank[4][0]]]    
             
 
+# 
+
+
 ######                
 #main#    
 ######
